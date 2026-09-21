@@ -1,9 +1,3 @@
-#CSIT 163 SP OL1
-#2/27/26
-#proj06
-#Wyatt Robertson
-
-
 #I'm going to get this out of the way now: most of my single-letter variables (g,j,x,y,z) function as iterables, so i felt no incentive to create funky names for them
 #similarly, many of the lists I create get repurposed so they are also often called empty_list
 import cards
